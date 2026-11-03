@@ -1,0 +1,18 @@
+# Virtual environments
+trip_venv/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive environment variables & API keys
+.env
+.env.*
+
+# Project outputs & temp files
+travel_plans/
+check_models.py
